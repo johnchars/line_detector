@@ -1,3 +1,5 @@
+[todo]
+
 # three mainstream line detectors: lsd-lines, ed-lines and hough-lines
 
 1. __segment line detector (lsd)__ 
